@@ -29,6 +29,7 @@ password_array = [i for i in range(0, count_symbols)]
 
 print(password_array)
 
+print(f'Версия приложения 0.0.1')
 print(f'Количество доступных символов: {len(ARRAY_SYMBOLS)}')
 print(f'Количество возможных вариантов: {count_var}')
 
